@@ -113,4 +113,4 @@ console.log(foo(5));
 
 ```
 
-**More Markdown is refers to here [Markdown](https://markdown-it.github.io/)**
+**More Markdown refers to here [Markdown](https://markdown-it.github.io/)**
